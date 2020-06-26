@@ -17,7 +17,7 @@ def name(list)
 end
 
 my_each(array[i]) do |x|
-  if x.collect
+  if x.collect = []
     puts "Hello, #{x}."
   end
 end
