@@ -20,5 +20,6 @@ my_each(names) do |i|
   if names.collect
     puts "Hello, #{names}."
   end
+  
 end
 
