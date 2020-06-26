@@ -16,7 +16,7 @@ def name(list)
   names
 end
 
-collection = ["steve", "mike", "john"]
 
-my_each(collection){|i| puts "Hello #{i}"}
+
+my_each(collection){|i| puts "Hello #{i}"}collection = ["steve", "mike", "john"]
 
