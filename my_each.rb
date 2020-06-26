@@ -17,7 +17,8 @@ def name(list)
 end
 
 my_each(names) do |i|
-  if names.starts_with?
+  if names.start_with? (" ")
+    puts 
 
 end
 
