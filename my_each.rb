@@ -16,10 +16,9 @@ def name(list)
   names
 end
 
-my_each(names) do |i|
-  if names.collect
-    puts "Hello, #{names}."
+my_each(array[i]) do |x|
+  if x.collect
+    puts "Hello, #{x}."
   end
-  
 end
 
