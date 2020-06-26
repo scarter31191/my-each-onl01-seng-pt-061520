@@ -16,5 +16,8 @@ def name(list)
   names
 end
 
-name
+my_each(names) do |i|
+  
+
+end
 
