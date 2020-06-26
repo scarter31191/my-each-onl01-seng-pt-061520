@@ -17,6 +17,3 @@ def name(list)
 end
 
 
-
-my_each(collection){|i| puts "Hello #{i}"}collection = ["steve", "mike", "john"]
-
